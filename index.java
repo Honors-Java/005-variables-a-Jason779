@@ -2,7 +2,7 @@
 
 int col1 = 100;
 
-int col2 = 300;
+int col2 = col1 + 200;
 
 
 void setup() {
